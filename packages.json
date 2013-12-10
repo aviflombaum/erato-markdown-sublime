@@ -1,0 +1,20 @@
+{
+    "schema_version": "1.1",
+    "packages": [
+        {
+            "name": "Erato Markdown",
+            "author": "Avi Flombaum",
+            "description": "Open your current file with the Erato markdown editor",
+            "homepage": "https://github.com/aviflombaum/erato-markdown-sublime",
+            "last_modified": "2013-12-10 11:32:45",
+            "platforms": {
+                "osx": [
+                    {
+                        "version": "1.0.0",
+                        "url": "https://github.com/aviflombaum/erato-markdown-sublime"
+                    }
+                ]
+            }
+        }
+    ]
+}
